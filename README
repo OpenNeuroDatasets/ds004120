@@ -16,9 +16,10 @@ driving performance can be analyzed for fatigue-related EEG biomarkers based on 
 performance degradation. Further information is available on request from [cancta.net](https://cancta.net).
 
 The task was performed using identical systems at three different sites:
-- Army Research Laboratory, Aberdeen MD (T1);
-- Teledyne Corporation, Durham, NC (T2);
-- Science Applications International Corporation (SAIC), Louisville, CO (T3).
+
+- Army Research Laboratory, Aberdeen MD (T1)  
+- Teledyne Corporation, Durham, NC (T2)  
+- Science Applications International Corporation (SAIC), Louisville, CO (T3) 
 
 All sites used identical driving simulator setups.
 The data collected at site T1 used a 64-channel Biosemi EEG headset as did the data collected at site T2,
