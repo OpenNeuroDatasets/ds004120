@@ -78,3 +78,9 @@ Simulator Sickness Questionnaire.
 **Experimental Locations:**  Army Research Laboratory, Aberdeen MD (site T1);
 Teledyne Corporation, Durham, NC (site T2);
 Science Applications International Corporation (SAIC), Louisville, CO (site T3).
+
+**Note 1:** This dataset has a corresponding dataset in the BCIT Calibration Driving ds004118 which has the
+15 minute driving task performed prior to this one.
+
+**Note 2:** Some of the subjects in this dataset performed either the BCIT Basic Guard Duty Task (ds004118) or
+the BCIT Advanced Guard Duty Task (ds004106) counterbalanced during the same session.
